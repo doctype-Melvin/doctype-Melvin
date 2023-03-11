@@ -5,9 +5,16 @@ Besides that FLStudio is my favourite DAW and I do some graphics and video editi
 
 Take a look at some of my past projects:
 <a href="https://doctype-melvin.github.io/calculator/" target="_blank">Click calculator</a><span> Vanilla JS</span>
+<a href="https://doctype-melvin.github.io/rock-paper-scissors/" target="_blank">Rock, Paper, Scissors </a><span>Beginner classic in Vanilla JS</span>
+<a href="https://doctype-melvin.github.io/the-library/">Book library</a><span> Simple JS CRUD app that utilizes localStorage</span>
+<a href="https://doctype-melvin.github.io/weather-app/">Weather App</a><span> Very basic weather app</span>
+<a href="https://doctype-melvin.github.io/tic-tac-toe/">
+TicTacToe</a> <span>A beginner classic</span>
+<a href="https://doctype-melvin.github.io/battleship/">Battleship </a><span>My biggest (published) project yet </span>
 
-**Contact Me:**
+Contact me:<br>
 [![Linkedin: MelvinSpeckamp](https://img.shields.io/badge/-MelvinSpeckamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-speckamp-webdev/)](https://www.linkedin.com/in/melvin-speckamp-webdev/)
+
 [![Gmail Badge](https://img.shields.io/badge/-doctype.melvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doctype.melvin@gmail.com)](mailto:doctype.melvin@gmail.com)
 
 #### What I know
