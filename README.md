@@ -54,8 +54,4 @@ Contact
 [![Gmail Badge](https://img.shields.io/badge/-doctype.melvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doctype.melvin@gmail.com)](mailto:doctype.melvin@gmail.com)
 
 </div>
-<span style="font-size:18px; background-color: #233824; padding: 10px 15px; border-radius: 50px; margin-bottom:20px"><em><b>I am passionate about Googling stuff I don't know.</b></em></span>
-
-<img src="https://media4.giphy.com/media/13HBDT4QSTpveU/200w.gif?cid=6c09b952ljt3oosq8qexev3uif4pupoohp6mts1ssi1rvntl&rid=200w.gif&ct=g" />
-
 </section>
