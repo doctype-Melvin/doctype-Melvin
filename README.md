@@ -1,12 +1,17 @@
-# <img src="https://i.gifer.com/origin/f9/f90fc85cf18e351c565692dcb1c0feeb_w200.webp" width="30px"> Hello World  <img src="https://i.gifer.com/origin/f9/f90fc85cf18e351c565692dcb1c0feeb_w200.webp" width="30px">
-Thanks for checking out my profile!
-### My name's Melvin and I'm a self-taught / bootcamp-trained _Web Developer_.
+Thanks for stopping by!
+
+My name's Melvin and I'm a self-taught / bootcamp-trained Web Developer, Linux user and Meme enthusiast.
+Besides that FLStudio is my favourite DAW and I do some graphics and video editing. Some of my non-digital pass time activities are weightlifting, reading and (once in a blue moon) painting.
+
+Take a look at some of my past projects:
+<a href="https://doctype-melvin.github.io/calculator/" target="_blank">Click calculator</a><span> Vanilla JS</span>
 
 **Contact Me:**
 [![Linkedin: MelvinSpeckamp](https://img.shields.io/badge/-MelvinSpeckamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-speckamp-webdev/)](https://www.linkedin.com/in/melvin-speckamp-webdev/)
 [![Gmail Badge](https://img.shields.io/badge/-doctype.melvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doctype.melvin@gmail.com)](mailto:doctype.melvin@gmail.com)
 
 #### What I know
+
 ![HTML](https://camo.githubusercontent.com/44173498fb8d679b663deaf735ccd89cb0fa7ff33a93ae127ad89a5a9aa2ca0f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d48544d4c26636f6c6f723d453334463236267374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465266c6f676f57696474683d266c6162656c436f6c6f723d266c696e6b3d "HTML 5 Logo")
 ![CSS](https://camo.githubusercontent.com/ed4adc9951f3c5f9bb6a4808ea303e3b3b1ee31de0406ac4db5a098e4584c799/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d43535326636f6c6f723d313537324236267374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465266c6f676f57696474683d266c6162656c436f6c6f723d266c696e6b3d "CSS Logo")
 ![JavaScript](https://camo.githubusercontent.com/3fd5ac586d52c034d07d12fa25deeffd4eb60840b56e900f8526f1676a1f065a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d4a61766173637269707426636f6c6f723d463744463145267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d626c61636b266c6f676f57696474683d266c6162656c436f6c6f723d266c696e6b3d "JavaScript Logo")
