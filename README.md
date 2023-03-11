@@ -26,10 +26,8 @@
 
 </div>
 </section>
-<br>
 <div style="text-align:center; font-size:20px;color:#249E6F; text-shadow: 2px 2px 3px #45150C; margin-bottom:10px"></div>
 <div style="display:flex; flex-wrap:wrap; justify-content: center; gap:3px; max-width: 200px; margin-left: auto; margin-right:auto; margin-bottom:15px">
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px"/>
