@@ -11,6 +11,10 @@
 <span style="font-size: 18px; color:#249E6F; text-shadow: 2px 2px 3px #45150C">Sample projects:</span>
 <div>
 
+<a style="color: #91DBEB" href="https://doctype-melvin.github.io/calculator/" target="_blank"><b>Workout Logging App 1.0</b></a><span style="color: #DEA0B9"> My final project for the Neue Fische Web Development Bootcamp (optimized for mobile view)</span>
+<br>
+<span>Currently working on a new version in Next.js 13</span>
+
 <a style="color: #91DBEB" href="https://doctype-melvin.github.io/calculator/" target="_blank"><b>Click calculator</b></a><span style="color: #DEA0B9"> Vanilla JS Calculator ... no keyboard support</span>
 
 <a style="color: #91DBEB" href="https://doctype-melvin.github.io/rock-paper-scissors/" target="_blank"><b>Rock, Paper, Scissors</b> </a><span style="color: #DEA0B9">Vanilla JS Game</span>
@@ -32,6 +36,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="45px"/>
 
@@ -41,12 +47,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="45px"/>
+
+
 </div>
 <section style="display:flex; flex-direction:column; align-items:center">
     
 <div style="text-align:center; font-size:20px;color:#249E6F; text-shadow: 2px 2px 3px #45150C; margin-bottom:50px">
 
-[![Linkedin: MelvinSpeckamp](https://img.shields.io/badge/-MelvinSpeckamp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-speckamp-webdev/)](https://www.linkedin.com/in/melvin-speckamp-webdev/)
 [![Gmail Badge](https://img.shields.io/badge/-doctype.melvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doctype.melvin@gmail.com)](mailto:doctype.melvin@gmail.com)
 
 </div>
