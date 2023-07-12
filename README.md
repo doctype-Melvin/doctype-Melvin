@@ -11,7 +11,7 @@
 <span style="font-size: 18px; color:#249E6F; text-shadow: 2px 2px 3px #45150C">Sample projects:</span>
 <div>
 
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/calculator/" target="_blank"><b>Workout Logging App 1.0</b></a><span style="color: #DEA0B9"> My final project for the Neue Fische Web Development Bootcamp (optimized for mobile view)</span>
+<a style="color: #91DBEB" href="https://flexflow.vercel.app/" target="_blank"><b>Workout Logging App 1.0</b></a><span style="color: #DEA0B9"> My final project for the Neue Fische Web Development Bootcamp (optimized for mobile view)</span>
 <br>
 <span>Currently working on a new version in Next.js 13</span>
 
