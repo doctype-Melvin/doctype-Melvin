@@ -54,7 +54,5 @@
     
 <div style="text-align:center; font-size:20px;color:#249E6F; text-shadow: 2px 2px 3px #45150C; margin-bottom:50px">
 
-[![Gmail Badge](https://img.shields.io/badge/-doctype.melvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doctype.melvin@gmail.com)](mailto:doctype.melvin@gmail.com)
-
 </div>
 </section>
