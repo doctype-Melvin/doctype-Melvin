@@ -1,12 +1,5 @@
 <section>
-    <h2 style="color:#249E6F; text-shadow: 2px 2px 3px #45150C">Thanks for stopping by!</h2>
-<p style="text-align: justify">
-    My name's Melvin and I'm a self-taught / bootcamp-trained Web Developer, Linux user and Meme enthusiast.
-    Besides that, FLStudio is my favourite DAW and I do some graphics and video editing. Some of my non-digital pass time activities are weightlifting, reading and (once in a blue moon) painting.
-</p>
-</section>
-
-<section style="background-color: #233824; padding: 15px 20px; border-radius: 5px; margin: 25px">
+  
     
 <span style="font-size: 18px; color:#249E6F; text-shadow: 2px 2px 3px #45150C">Sample projects:</span>
 <div>
