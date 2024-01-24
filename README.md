@@ -1,28 +1,7 @@
 <section>
   
     
-<span style="font-size: 18px; color:#249E6F; text-shadow: 2px 2px 3px #45150C">Sample projects:</span>
-<div>
 
-<a style="color: #91DBEB" href="https://flexflow.vercel.app/" target="_blank"><b>Workout Logging App 1.0</b></a><span style="color: #DEA0B9"> My final project for the Neue Fische Web Development Bootcamp (optimized for mobile view)</span>
-<br>
-<span>Currently working on a new version in Next.js 13</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/calculator/" target="_blank"><b>Click calculator</b></a><span style="color: #DEA0B9"> Vanilla JS Calculator ... no keyboard support</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/rock-paper-scissors/" target="_blank"><b>Rock, Paper, Scissors</b> </a><span style="color: #DEA0B9">Vanilla JS Game</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/the-library/"><b>Book library</b> </a><span style="color: #DEA0B9">Simple JS CRUD app that utilizes localStorage</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/weather-app/"><b>Weather App</b> </a><span style="color: #DEA0B9">Very basic weather app</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/tic-tac-toe/"><b>TicTacToe</b> </a><span style="color: #DEA0B9">Xs and Os</span>
-
-<a style="color: #91DBEB" href="https://doctype-melvin.github.io/battleship/"><b>Battleship</b> </a><span style="color: #DEA0B9">Sink all of the enemy's ships
-</span>
-
-</div>
-</section>
 <div style="text-align:center; font-size:20px;color:#249E6F; text-shadow: 2px 2px 3px #45150C; margin-bottom:10px"></div>
 <div style="display:flex; flex-wrap:wrap; justify-content: center; gap:3px; max-width: 200px; margin-left: auto; margin-right:auto; margin-bottom:15px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px"/>
